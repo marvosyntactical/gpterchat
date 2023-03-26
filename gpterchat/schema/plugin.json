@@ -1,0 +1,8 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "gpterchat",
+  "description": "gpterchat settings.",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false
+}
